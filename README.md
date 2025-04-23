@@ -87,3 +87,5 @@
 
 Architecture & design flow of this application:
 App -> SearchParams -> Results (Pets) -> Details -> Carousel
+
+testing something for the github cli
