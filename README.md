@@ -87,3 +87,6 @@
 
 Architecture & design flow of this application:
 App -> SearchParams -> Results (Pets) -> Details -> Carousel
+
+
+another things on feature B
